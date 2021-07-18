@@ -14,5 +14,5 @@ end
 def destroy
   session.delete :name
 end
-
+#test
 end
